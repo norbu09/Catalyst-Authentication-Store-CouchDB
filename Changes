@@ -1,5 +1,8 @@
 Revision history for Catalyst-Authentication-Store-CouchDB
 
+1.0     2012-01-24T17:23:23
+        first shippable plugin
+
 0.1     2012-01-24T17:20:29
         First version, released on an unsuspecting world.
 
